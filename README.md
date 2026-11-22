@@ -1,3 +1,7 @@
+**Official website:** [https://www.freeaitool.top/](https://www.freeaitool.top/) (Free AI Tools)
+
+Collected and curated by the Free AI Tools team. **Submissions are welcome.** [Open an issue](https://github.com/c1a1o1/free-ai-data-handling-checklist/issues/new) to suggest a resource or correction, or [submit a pull request](https://github.com/c1a1o1/free-ai-data-handling-checklist/pulls) with a proposed edit. Include a source link, a short explanation, and any affiliation. We review submissions before adding them.
+
 # Free AI Data-Handling Checklist
 
 No sign-up, no training, and no retention are three different claims. Audit the exact feature before pasting any work.
